@@ -1,2 +1,4 @@
 # hello-world
-my first project
+Selam canıms
+
+ben baran bu kadar yeter.
